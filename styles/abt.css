@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+body{
+  background-color: skyblue;}
+
+h1 {color: black;
+padding: 10px;
+    margin: 5px;
+    flex: 1;
+    text-align: center;
+}
+h2{color: black;
+padding: 10px;
+    margin: 5px;
+    flex: 1;
+    text-align: center;}
+#ab
+ {
+     color: #0000FF; 
+    border: 2px solid lightgreen;
+    padding: 50px;
+
+    margin: 20px;
+    flex: 1;
+    text-align: center;
+
+
+}
+#a
+{ color: #0000FF; 
+    border: 2px solid lightgreen;
+    padding: 50px;
+    margin: 20px;
+    flex: 1;
+    text-align: center;}
+#b
+{ color: #0000FF; 
+    border: 2px solid lightgreen;
+    padding: 50px;
+
+    margin: 20px;
+    flex: 1;
+    text-align: center;}
+#c
+{
+        color: #0000FF; 
+    border: 2px solid lightgreen;
+    padding: 50px;
+
+    margin: 20px;
+    flex: 1;
+    text-align: center;}
+footer{
+  background-color: blue;
+  color: white;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+    text-align: center;
+    height:100px;
+}
